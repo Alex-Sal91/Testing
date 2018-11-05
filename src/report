@@ -1,0 +1,4 @@
+In order to complete challenge #2 I inspected the DOM and looked to change the input type for the form from
+number to text or by simply removing the type.
+
+This allows for non integer values to bypass the HTML 5 validator.
